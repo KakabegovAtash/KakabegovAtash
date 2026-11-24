@@ -68,7 +68,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -91,3 +91,7 @@
 ![Hana Bank](https://img.shields.io/badge/Hana%20Bank-53491069197907-008485?style=for-the-badge&logo=cashapp&logoColor=white)
 
 </div>
+
+```text
+53491069197907
+```
