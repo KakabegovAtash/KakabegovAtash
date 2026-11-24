@@ -1,16 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Atash 👋
-
-**Software Convergence Student @ Kyung Hee University, South Korea**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=KakabegovAtash&label=Profile%20Views&color=7aa2f7&style=for-the-badge)](https://github.com/KakabegovAtash)
+# Hi there, It's Atash! :)
 
 </div>
 
 ---
 
-## 💫 About Me
+##  *About Me*
+
+<div align="center">
 
 - 🔭 Software Convergence student at **Kyung Hee University**, South Korea
 - 🤝 Actively developing programming skills
@@ -18,9 +16,11 @@
 - ✈️ From **Turkmenistan** 🇹🇲 → **South Korea** 🇰🇷
 - 🧾 **Global Korea Scholarship (GKS)** student
 
+</div>
+
 ---
 
-## 🌐 Socials
+##  *Socials*
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 💻 Tech Stack
+## *Tech Stack*
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## *GitHub Stats*
 
 <div align="center">
 
@@ -91,7 +91,3 @@
 ![Hana Bank](https://img.shields.io/badge/Hana%20Bank-53491069197907-008485?style=for-the-badge&logo=cashapp&logoColor=white)
 
 </div>
-
-```text
-53491069197907
-```
