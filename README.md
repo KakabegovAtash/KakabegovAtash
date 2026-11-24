@@ -4,7 +4,7 @@
 
 </div>
 
- <h1 align="left">About Me</h1>
+ <h2 align="left">About Me
 
 <div align="center">
 
@@ -14,21 +14,21 @@
 ####  *Global Korea Scholarship (GKS) student*
 
 </div>
+</h2>
 
-
- <h1 align="left">Socials</h1>
+ <h2 align="left">Socials
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/killernyak)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/killernyakk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atash-kakabegov-683319399)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakabegovatash1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakabegovatash2@gmail.com)
 
 </div>
+</h2>
 
-
-<h1 align="left">Tech Stack</h1>
+<h2 align="left">Tech Stack
 
 <div align="center">
 
@@ -41,9 +41,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+</h2>
 
-
-<h1 align="left">GitHub Stats</h1>
+<h2 align="left">GitHub Stats
 
 <div align="center">
 
@@ -55,30 +55,31 @@
 <img src="https://streak-stats.demolab.com/?user=KakabegovAtash&theme=tokyonight&hide_border=true" />
 
 </div>
+</h2>
 
-
-<h1 align="left">Favourite Quote</h1>
+<h2 align="left">Favourite Quote
 
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+</h2>
 
-
-<h1 align="left">Contribution Activity</h1>
+<h2 align="left">Contribution Activity
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KakabegovAtash&theme=tokyo-night&hide_border=true)](https://github.com/KakabegovAtash)
 
 </div>
+</h2>
 
-
-<h1 align="left">Support Me</h1>
+<h2 align="left">Support Me
 
 <div align="center">
 
 ![Hana Bank](https://img.shields.io/badge/Hana%20Bank-53491069197907-008485?style=for-the-badge&logo=cashapp&logoColor=white)
 
 </div>
+</h2>
