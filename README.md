@@ -4,7 +4,7 @@
 
 </div>
 
- <h2 align="left">About Me
+ <h2 align="left">About Me</h2>
 
 <div align="center">
 
@@ -14,9 +14,9 @@
 ####  *Global Korea Scholarship (GKS) student*
 
 </div>
-</h2>
 
- <h2 align="left">Socials
+
+ <h2 align="left">Socials</h2>
 
 <div align="center">
 
@@ -26,9 +26,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakabegovatash2@gmail.com)
 
 </div>
-</h2>
 
-<h2 align="left">Tech Stack
+
+<h2 align="left">Tech Stack</h2>
 
 <div align="center">
 
@@ -41,9 +41,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-</h2>
 
-<h2 align="left">GitHub Stats
+
+<h2 align="left">GitHub Stats</h2>
 
 <div align="center">
 
@@ -55,31 +55,30 @@
 <img src="https://streak-stats.demolab.com/?user=KakabegovAtash&theme=tokyonight&hide_border=true" />
 
 </div>
-</h2>
 
-<h2 align="left">Favourite Quote
+
+<h2 align="left">Favourite Quote</h2>
 
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-</h2>
 
-<h2 align="left">Contribution Activity
+
+<h2 align="left">Contribution Activity</h2>
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KakabegovAtash&theme=tokyo-night&hide_border=true)](https://github.com/KakabegovAtash)
 
 </div>
-</h2>
 
-<h2 align="left">Support Me
+
+<h2 align="left">Support Me</h2>
 
 <div align="center">
 
 ![Hana Bank](https://img.shields.io/badge/Hana%20Bank-53491069197907-008485?style=for-the-badge&logo=cashapp&logoColor=white)
 
 </div>
-</h2>
