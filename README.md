@@ -4,7 +4,7 @@
 
 </div>
 
- <h2 align="center">About Me</h2>
+ <h1 align="left">About Me</h1>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 </div>
 
 
- <h2 align="center">Socials</h2>
+ <h1 align="left">Socials</h1>
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 </div>
 
 
-<h2 align="center">Tech Stack</h2>
+<h1 align="left">Tech Stack</h1>
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 </div>
 
 
-<h2 align="center">GitHub Stats</h2>
+<h1 align="left">GitHub Stats</h1>
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 </div>
 
 
-<h2 align="center">Favourite Quote</h2>
+<h1 align="left">Favourite Quote</h1>
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 </div>
 
 
-<h2 align="center">Contribution Activity</h2>
+<h1 align="left">Contribution Activity</h1>
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 </div>
 
 
-<h2 align="center">Support Me</h2>
+<h1 align="left">Support Me</h1>
 
 <div align="center">
 
