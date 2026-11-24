@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&section=header&reversal=false&text=%EC%95%88%EB%85%95%2C+I%27m+Atash%21+%3A%29&textBg=false&fontSize=70&fontAlign=50&fontAlignY=45&animation=fadeIn&strokeWidth=3&descSize=20&descAlign=50&descAlignY=60
+![header](https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&section=header&reversal=false&text=%EC%95%88%EB%85%95%2C+I%27m+Atash%21+%3A%29&textBg=false&fontSize=70&fontAlign=50&fontAlignY=45&animation=fadeIn&strokeWidth=3&descSize=20&descAlign=50&descAlignY=60)
 
  <h2 align="left">About Me</h2>
 
@@ -78,3 +78,5 @@ https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&sect
 ![Hana Bank](https://img.shields.io/badge/Hana%20Bank-53491069197907-008485?style=for-the-badge&logo=cashapp&logoColor=white)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=45&animation=fadeIn&strokeWidth=3&descSize=20&descAlign=50&descAlignY=60)
