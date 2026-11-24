@@ -1,8 +1,4 @@
-<div align="center">
-
-# Hi there, It's Atash! :)
-
-</div>
+https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&section=header&reversal=false&text=%EC%95%88%EB%85%95%2C+I%27m+Atash%21+%3A%29&textBg=false&fontSize=70&fontAlign=50&fontAlignY=45&animation=fadeIn&strokeWidth=3&descSize=20&descAlign=50&descAlignY=60
 
  <h2 align="left">About Me</h2>
 
