@@ -8,15 +8,13 @@
 
 <div align="center">
 
-- 🔭 Software Convergence student at **Kyung Hee University**, South Korea
-- 🤝 Actively developing programming skills
-- 🌱 Currently learning **Machine Learning**
-- ✈️ From **Turkmenistan** 🇹🇲 → **South Korea** 🇰🇷
-- 🧾 **Global Korea Scholarship (GKS)** student
+####  *Software Convergence student at **Kyung Hee University**, South Korea*
+####  *Actively developing programming skills*
+####  *From **Turkmenistan** 🇹🇲 → **South Korea** 🇰🇷*
+####  * **Global Korea Scholarship (GKS)** student *
 
 </div>
 
----
 
 ##  *Socials*
 
@@ -29,7 +27,6 @@
 
 </div>
 
----
 
 ## *Tech Stack*
 
@@ -45,7 +42,6 @@
 
 </div>
 
----
 
 ## *GitHub Stats*
 
@@ -60,7 +56,6 @@
 
 </div>
 
----
 
 ## ✍️ Favourite Quote
 
@@ -70,7 +65,6 @@
 
 </div>
 
----
 
 ## 🔝 Contribution Activity
 
@@ -80,7 +74,6 @@
 
 </div>
 
----
 
 ## ☕ Support Me
 
