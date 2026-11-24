@@ -76,4 +76,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&section=footer&reversal=true&)
+![footer](https://capsule-render.vercel.app/api?type=wave&height=150&color=gradient&section=footer&reversal=true&)
