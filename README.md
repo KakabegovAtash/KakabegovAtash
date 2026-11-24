@@ -11,7 +11,7 @@
 ####  *Software Convergence student at **Kyung Hee University**, South Korea*
 ####  *Actively developing programming skills*
 ####  *From **Turkmenistan** 🇹🇲 → **South Korea** 🇰🇷*
-####  * Global Korea Scholarship (GKS) student *
+####  *Global Korea Scholarship (GKS) student*
 
 </div>
 
