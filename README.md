@@ -4,7 +4,7 @@
 
 </div>
 
-##  *About Me*
+ <h2 align="center">About Me</h2>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 </div>
 
 
-##  *Socials*
+ <h2 align="center">Socials</h2>
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 </div>
 
 
-## *Tech Stack*
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 </div>
 
 
-## *GitHub Stats*
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 </div>
 
 
-## ✍️ Favourite Quote
+<h2 align="center">Favourite Quote</h2>
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 </div>
 
 
-## 🔝 Contribution Activity
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 </div>
 
 
-## ☕ Support Me
+<h2 align="center">Support Me</h2>
 
 <div align="center">
 
