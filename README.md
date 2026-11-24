@@ -76,4 +76,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=45&animation=fadeIn&strokeWidth=3&descSize=20&descAlign=50&descAlignY=60)
+![footer](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&section=footer&reversal=true&)
