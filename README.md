@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@killernyak-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/killernyak)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/killernyak)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/killernyakk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atash-kakabegov-683319399)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakabegovatash1@gmail.com)
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 </div>
 
