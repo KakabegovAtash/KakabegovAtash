@@ -11,19 +11,19 @@
 
 
 
- <h2 align="center">Socials</h2>
+ <h1 align="center">Socials</h1>
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/killernyak)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/killernyakk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atash-kakabegov-683319399)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakabegovatash2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakabegovatash1@gmail.com)
 
 </div>
 
 
-<h2 align="center">Tech Stack</h2>
+<h1 align="center">Tech Stack</h1>
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 </div>
 
 
-<h2 align="center">GitHub Stats</h2>
+<h1 align="center">GitHub Stats</h1>
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 </div>
 
 
-<h2 align="center">Favourite Quote</h2>
+<h1 align="center">Favourite Quote</h1>
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 </div>
 
 
-<h2 align="center">Contribution Activity</h2>
+<h1 align="center">Contribution Activity</h1>
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 </div>
 
 
-<h2 align="center">Support Me</h2>
+<h1 align="center">Support Me</h1>
 
 <div align="center">
 
